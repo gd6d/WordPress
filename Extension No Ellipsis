@@ -1,0 +1,10 @@
+<?php
+/*
+Plugin Name: No Ellipsis
+Description: Désactive la coupure du menu
+Author: Gd6d
+*/
+add_action( 'wp' , function(){
+  remove_filter( 'wp_nav_menu', 'twentynineteen_add_ellipses_to_nav', 10, 2 );
+});
+?>
