@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: No Ellipsis
-Description: Désactive la coupure du menu
+Description: Désactive la coupure du menu du thème Twenty Nineteen
 Author: Gd6d
 */
 add_action( 'wp' , function(){
