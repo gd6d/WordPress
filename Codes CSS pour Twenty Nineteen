@@ -2,29 +2,19 @@ Réduire la hauteur de l'image à la une
 .site-header.featured-image {
    min-height: 70vh;
  }
- 
  Réduire l'espace sous l'image à la une
  .site-header.featured-image {
    margin-bottom: 0rem;
  }
- 
 Source : https://www.pootlepress.com/2018/12/5-tips-tricks-and-css-tweaks-to-easily-customize-the-wordpress-2019-theme/
 
 
 
 Rendre le logo carré
-
 .site-logo .custom-logo-link {
     border-radius: 0;
 }
-
-https://macmanx.com/2018/12/11/twenty-nineteen-tweaks/
-
-
-Ne pas afficher les commentaires
-
-
-Source : https://allaboutbasic.com/2018/12/19/twenty-nineteen-by-the-wordpress-team-css-style-modifications-of-header-footer-menu-widget-contents-and-more/
+Source : https://macmanx.com/2018/12/11/twenty-nineteen-tweaks/
 
 
 Cacher l'auteur
@@ -32,5 +22,4 @@ Cacher l'auteur
 .entry-footer .byline {
 display:none !important;
 }
-
 Source : https://pascalcescato.gdn/blogging/themes/personnaliser-twenty-nineteen/
