@@ -20,6 +20,14 @@ Source : https://macmanx.com/2018/12/11/twenty-nineteen-tweaks/
 Cacher l'auteur
 .entry-meta .byline,
 .entry-footer .byline {
-display:none !important;
+    display: block;
+    width: 1px;
+    height: 1px;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    text-indent: 150%;
+    white-space: nowrap;
+    overflow: hidden;  
 }
 Source : https://pascalcescato.gdn/blogging/themes/personnaliser-twenty-nineteen/
