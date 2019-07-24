@@ -31,3 +31,8 @@ Cacher l'auteur
     overflow: hidden;  
 }
 Source : https://pascalcescato.gdn/blogging/themes/personnaliser-twenty-nineteen/
+
+Rajouter des couleurs
+.rouge {
+  color: red;
+}
