@@ -32,8 +32,13 @@ Cacher l'auteur
 }
 Source : https://pascalcescato.gdn/blogging/themes/personnaliser-twenty-nineteen/
 
-Rajouter des couleurs
+Rajouter des couleurs // classe : rouge
 .rouge {
   color: red;
 }
 Pour adapter : https://htmlcolorcodes.com/fr/
+
+Pas de trait sous le lien // classe : pas-de-trait
+.entry-content .pas-de-trait a {
+    text-decoration: none;
+}
